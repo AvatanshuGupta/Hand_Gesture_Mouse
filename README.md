@@ -7,12 +7,7 @@ This project enables real-time control of the mouse pointer using hand gestures 
 - Control the mouse pointer with your index finger.
 - Click by pinching your index finger and thumb.
 - Smooth cursor movement.
-- Cooldown mechanism to prevent multiple clicks.
-
-## 📸 Demo
-
-https://user-images.githubusercontent.com/your-video-demo-link.gif  
-(*Add a short screen recording of you controlling the mouse with your hand here.*)
+- Cooldown mechanism to prevent multiple clicks.  
 
 ---
 
